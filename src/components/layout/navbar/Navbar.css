@@ -1,0 +1,13 @@
+.contenedor-header {
+  min-height: 8vh;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  text-decoration: none;
+}
