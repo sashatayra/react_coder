@@ -1,3 +1,5 @@
+import "./ListaNav.css";
+
 const ListaNav = () => {
   return (
     <ul>
