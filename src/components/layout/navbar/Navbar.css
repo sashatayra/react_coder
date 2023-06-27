@@ -3,7 +3,11 @@
   position: sticky;
   top: 0;
   z-index: 999;
-  background-color: #dc66f98a;
+  background-color: #dd58d6;
+}
+
+.logo {
+  color: #40128b;
 }
 
 .header {
@@ -18,5 +22,5 @@ ul {
   display: flex;
   justify-content: space-around;
   padding: 1rem;
-  color: #fff;
+  color: #ffe79b;
 }

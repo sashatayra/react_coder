@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <header className="contenedor-header">
       <div className="header">
-        <h1>NFT Indumentaria</h1>
+        <h1 className="logo">NFT Indumentaria</h1>
         <a class="boton-carrito" href="carrito.html">
           <CartWidget />
         </a>
