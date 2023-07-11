@@ -95,7 +95,7 @@ export const products = [
     price: 17850,
     stock: 2,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    category: "deportivas",
+    category: "pantalones",
     img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
   },
   {
@@ -104,7 +104,7 @@ export const products = [
     price: 20000,
     stock: 5,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    category: "deportivas",
+    category: "pantalones",
     img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
   },
 ];
