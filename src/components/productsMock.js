@@ -6,7 +6,7 @@ export const products = [
     stock: 2,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "camisetas",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/camiseta01_vyh4yz.webp",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const products = [
     stock: 4,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "camisetas",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/camiseta02_eln7sh.webp",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const products = [
     stock: 1,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "camisetas",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265800/camiseta03_iyho9v.png",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const products = [
     stock: 4,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "camisetas",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265800/camiseta04_lizicw.webp",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const products = [
     stock: 2,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "gorras",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265803/gorra01_ujhvs2.jpg",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const products = [
     stock: 4,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "gorras",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/gorra02_qsioxs.jpg",
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const products = [
     stock: 2,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "gorras",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/gorra03_dxlw1r.jpg",
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const products = [
     stock: 1,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "gorras",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/gorra04_axuvqr.jpg",
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const products = [
     stock: 2,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "pantalones",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265800/pantalon01_r1rjbc.webp",
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const products = [
     stock: 4,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "pantalones",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265803/pantalon02_ebvxzr.webp",
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const products = [
     stock: 2,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "pantalones",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265803/pantalon03_zfkpwu.webp",
   },
   {
     id: 12,
@@ -105,6 +105,6 @@ export const products = [
     stock: 5,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     category: "pantalones",
-    img: "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669326932/free-metcon-4-zapatillas-de-entrenamiento-TQMCZg_fvia3m.png",
+    img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265803/pantalon04_sn3zfw.webp",
   },
 ];
