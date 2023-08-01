@@ -1,7 +1,8 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useContext } from "react";
 import ItemDetail from "./ItemDetail";
 import { products } from "../../../productsMock";
 import { useParams } from "react-router-dom";
+import { CartContext } from "../../../../context/CartContext";
 
 const ItemDetailContainer = () => {
   const [product, setProduct] = useState({});
