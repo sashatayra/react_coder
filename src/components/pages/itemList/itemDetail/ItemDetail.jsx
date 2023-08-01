@@ -6,8 +6,9 @@ import {
   Typography,
 } from "@mui/material";
 import CounterContainer from "../../../common/counter/CounterContainer";
+import { useState } from "react";
 
-const ItemDetail = ({ product, agregarAlCarrito }) => {
+const ItemDetail = ({ product, agregarAlCarrito, cantidadEnCarrito }) => {
   return (
     <div>
       <Card>
@@ -28,6 +29,7 @@ const ItemDetail = ({ product, agregarAlCarrito }) => {
           <CounterContainer
             stock={product.stock}
             agregarAlCarrito={agregarAlCarrito}
+            cantidadEnCarrito={cantidadEnCarrito}
           />
         </CardActions>
       </Card>
