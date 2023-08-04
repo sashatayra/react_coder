@@ -6,11 +6,11 @@ const AppRouter = () => {
   return (
     <div>
       <Routes>
-        <Route element={<Layout />}>
-          {routes.map(({ id, path, Element }) => (
-            <Route key={id} path={path} element={<Element />} />
-          ))}
-        </Route>
+        {/* <Route element={<Layout />}> */}
+        {routes.map(({ id, path, Element }) => (
+          <Route key={id} path={path} element={<Element />} />
+        ))}
+        {/* </Route> */}
       </Routes>
     </div>
   );

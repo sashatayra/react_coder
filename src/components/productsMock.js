@@ -1,6 +1,5 @@
 export const products = [
   {
-    id: 1,
     title: "Camiseta 01",
     price: 15000,
     stock: 2,
@@ -9,7 +8,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/camiseta01_vyh4yz.webp",
   },
   {
-    id: 2,
     title: "Camiseta 02",
     price: 16500,
     stock: 4,
@@ -18,7 +16,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/camiseta02_eln7sh.webp",
   },
   {
-    id: 3,
     title: "Camiseta 03",
     price: 12000,
     stock: 1,
@@ -27,7 +24,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265800/camiseta03_iyho9v.png",
   },
   {
-    id: 4,
     title: "Camiseta 04",
     price: 13500,
     stock: 4,
@@ -36,7 +32,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265800/camiseta04_lizicw.webp",
   },
   {
-    id: 5,
     title: "Gorra 01",
     price: 5000,
     stock: 2,
@@ -45,7 +40,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265803/gorra01_ujhvs2.jpg",
   },
   {
-    id: 6,
     title: "Gorra 02",
     price: 6500,
     stock: 4,
@@ -54,7 +48,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/gorra02_qsioxs.jpg",
   },
   {
-    id: 7,
     title: "Gorra 03",
     price: 7500,
     stock: 2,
@@ -63,7 +56,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/gorra03_dxlw1r.jpg",
   },
   {
-    id: 8,
     title: "Gorra 04",
     price: 6250,
     stock: 1,
@@ -72,7 +64,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265801/gorra04_axuvqr.jpg",
   },
   {
-    id: 9,
     title: "Pantalon 01",
     price: 15000,
     stock: 2,
@@ -81,7 +72,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265800/pantalon01_r1rjbc.webp",
   },
   {
-    id: 10,
     title: "Pantalon 02",
     price: 24000,
     stock: 4,
@@ -90,7 +80,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265803/pantalon02_ebvxzr.webp",
   },
   {
-    id: 11,
     title: "Pantalon 03",
     price: 17850,
     stock: 2,
@@ -99,7 +88,6 @@ export const products = [
     img: "https://res.cloudinary.com/dgqwpswne/image/upload/v1689265803/pantalon03_zfkpwu.webp",
   },
   {
-    id: 12,
     title: "Pantalon 04",
     price: 20000,
     stock: 5,
