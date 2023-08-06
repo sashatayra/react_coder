@@ -38,23 +38,3 @@ const CartContainer = () => {
 };
 
 export default CartContainer;
-
-/**
- * {cart.map((elemento) => {
-          return (
-            <div
-              key={elemento.id}
-              style={{ width: "200px", border: "2px solid steelblue" }}
-            >
-              <h3>{elemento.title}</h3>
-              <h3>{elemento.price}</h3>
-              <h4>Cantidad: {elemento.quantity}</h4>
-              <button onClick={() => deleteById(elemento.id)}>Eliminar</button>
-            </div>
-          );
-        })}
-         <button onClick={clearCart}>Limpiar carrito</button>
-          <Link to="/checkout">
-            <button>Finalizar Compra</button>
-          </Link>
- */
